@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/gizak/termui/v3"
+	ui "github.com/gizak/termui/v3"
 	"github.com/hughgrigg/blackjack/game"
 	"github.com/hughgrigg/blackjack/util"
 	"github.com/leekchan/accounting"
