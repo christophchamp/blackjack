@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/gizak/termui"
+	"github.com/gizak/termui/v3"
 	"github.com/hughgrigg/blackjack/game"
 	"github.com/hughgrigg/blackjack/ui"
 )
